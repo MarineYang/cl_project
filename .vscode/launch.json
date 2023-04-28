@@ -1,0 +1,88 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "doller_info_app",
+            "cwd": "doller_info_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "doller_info_app (profile mode)",
+            "cwd": "doller_info_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "doller_info_app (release mode)",
+            "cwd": "doller_info_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "pomodoro_app",
+            "cwd": "pomodoro_app",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "pomodoro_app (profile mode)",
+            "cwd": "pomodoro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "pomodoro_app (release mode)",
+            "cwd": "pomodoro_app",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "toonfix",
+            "cwd": "toonfix",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "toonfix (profile mode)",
+            "cwd": "toonfix",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "toonfix (release mode)",
+            "cwd": "toonfix",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "project_m",
+            "cwd": "project_m",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "project_m (profile mode)",
+            "cwd": "project_m",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "project_m (release mode)",
+            "cwd": "project_m",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
