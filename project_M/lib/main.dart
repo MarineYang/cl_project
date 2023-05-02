@@ -64,6 +64,19 @@ class _MyApp extends State<MyApp> {
           ],
         ),
       ),
+      body: Column(
+        children:  [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: const [
+              Text("날씨 정보 UI Widget "),
+              Text("오늘 날짜"),
+            ],
+          ),
+           const Text("dddd"),
+           const Text("dddd")
+        ],
+      ),
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
         backgroundColor: Colors.grey,
